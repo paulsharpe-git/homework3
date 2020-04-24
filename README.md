@@ -1,2 +1,1 @@
-# homework3
-homework 3
+made this harder than it needed to be!
